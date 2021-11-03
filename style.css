@@ -8,7 +8,7 @@ body {
     width: 980px;
     margin: 0 auto;
   }
-  h1 {
+  main > h1 {
     margin-top: 20px;
     text-align: center;
     font-size: 50px;
