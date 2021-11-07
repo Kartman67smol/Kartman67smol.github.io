@@ -4,7 +4,7 @@
     list-style-type: none;
     border: 2px solid #0066FF;
     border-radius: 20px 20px;
-    width: 950px;
+    width: 1050px;
     text-align: center;
     background-color: #33ADFF;
   }
@@ -81,7 +81,7 @@ section {
     background-color: #d8f38d;
     margin: 10px 10px;
     display: inline-block;
-    width: 950px;
+    width: 1050px;
 }
 
 p {
@@ -99,5 +99,6 @@ header {
 }
 
 #cent {
-    margin: center;
+    margin-left: 100px;
+    margin-right: 100px;
 }
